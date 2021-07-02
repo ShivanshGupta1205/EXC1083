@@ -1,2 +1,3 @@
-# Software-Engineering-Project
-Gantt Chart and Workload Management
+EXC1083 
+Shivansh Gupta 19BCE0661
+Gantt Pro X
