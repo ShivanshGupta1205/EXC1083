@@ -1,7 +1,3 @@
-EXC1083 
-Shivansh Gupta 19BCE0661
-Gantt Pro X
-
 Software Engineering Project
 
 Project Title - GanttProX
